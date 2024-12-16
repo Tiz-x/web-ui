@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+  margin-left: 13px;
+}
+p{
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.thumbnail{
+  width: 400px;
+}
+.thumbnail1{
+  width: 400px;
+}
+.first-info{
+  width: 350px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.second-info{
+  color: rgb(78, 74, 74);
+  margin-bottom: 4px;
+  margin-top: 0px;
+}
+.third-info{
+  color: rgb(78, 74, 74);
+  margin-top: 0px;
+}
+.channel-image{
+    width: 50px;
+    border-radius: 25px;
+}
+.thumbnail1-section2{
+  margin-top: 8px;
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  column-gap: 15px;
+}
+.my-youtube{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 30px;
+}

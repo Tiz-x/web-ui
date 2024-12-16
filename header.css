@@ -1,0 +1,52 @@
+.header{
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: fixed;
+  height: 70px;
+  background-color: white;
+  padding-top: 60px;
+}
+.left {
+  width: 170px;
+  display: flex;
+  align-items: center;
+}
+.hambuger{
+  height: 30px;
+}
+.youtube{
+  height: 25px;
+  margin-left: 20px;
+}
+.middle{
+  background-color: lightpink;
+  flex: 1;
+  margin-left: 70px;
+  margin-right: 50px;
+  max-width: 800px;
+  display: flex;
+  align-items: center;
+}
+.search-box{
+  height: 40px;
+  width: 400px;
+  margin-left: 100px;
+}
+.search{
+  height: 36px;
+}
+.voice{
+  
+}
+.vioce-button{
+height: 60px;
+width: 60px;
+margin-left: 50px;
+}
+
+.right{
+  background-color: lightblue;
+  width: 150px;
+}
